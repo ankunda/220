@@ -1,3 +1,3 @@
 # 220
 Data Structures notes
-Fall quarter 2023
+Fall quarter 2024
