@@ -123,10 +123,13 @@ class NodeTest
     }
 }
 ```
+
+<!--
 ::: {.callout-important title="Activity" collapse="true" icon=false}
 demo with examples of generic methods and classes.
 Make sure to show and interpret the error messages that are shown as a result.
 :::
+-->
 
 # Bounded type parameters
 Sometimes the flexibility afforded by generic types is too much and you want to limit it a little i.e. allow only some types but not every single type. In this case, you adjust the type parameter from just having an identifier name, but also the **extends** keyword followed by an upper bound. This upper bound can be a super class or interface that all the types you actually want to allow belong to.
