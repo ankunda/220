@@ -59,7 +59,7 @@ pop R
 ```
 Another example of stack use is in matching brackets. The way that works is if we follow this rule: push left parentheses, ignore operators and operands, and pop the stack whenever we get a right parenthesis to make a match.
 
-See if you can follow the follow the input and stack umns for the expression $a+b*(c+(d-e)/(f/g))$
+See if you can follow the input and stack columns for the expression $a+b*(c+(d-e)/(f/g))$
 
 | Input  |Stack     | Input   | Stack     |
 |--------|----------|---------|-----------|
